@@ -27,7 +27,7 @@ This project was created to improve my Python programming skills during my inter
 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/hangman-game.git
+git clone https:https://github.com/itshiteshtech/Hangman-Game
 Open the project folder
 cd hangman-game
 Run the Python file
